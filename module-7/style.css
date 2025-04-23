@@ -1,0 +1,12 @@
+.white-fill-black-stroke {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+/* ID for red text and green background */
+#red-green-color {
+    -fx-fill: red;              
+    -fx-stroke: green;
+    -fx-stroke-width: 5;
+}
